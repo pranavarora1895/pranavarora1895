@@ -1,4 +1,4 @@
-# Welcome to my GitHub   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+# Welcome to my GitHub :octocat:  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 - 👋 Hi, I’m @pranavarora1895
 - 👀 I’m interested in finding out new IT solutions.
