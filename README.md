@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> Automation & Machine Learning Projects.
 - 📫 Let's Get Connected: [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:aurorapranav187@gmail.com), [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/pranav-arora-354b71bb), [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/arorapranav187/), [<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/cosmicpranav007/).
 
- [![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavarora1895&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavarora1895&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+ [![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavarora1895&theme=nightowl&show_icons=true)](https://github.com/pranavarora1895?tab=repositories)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavarora1895&layout=compact&theme=nightowl)](https://github.com/pranavarora1895?tab=repositories)
 
 
 
