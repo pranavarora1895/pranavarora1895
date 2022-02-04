@@ -3,7 +3,8 @@
 > <a>[![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavarora1895&theme=radical&show_icons=true&line_height=20&count_private=true)](https://github.com/pranavarora1895?tab=repositories)</a>  
 >  
 > <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavarora1895&layout=compact&theme=radical)](https://github.com/pranavarora1895?tab=repositories)</a>
->
+
+> [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pranavarora1895)](https://github.com/pranavarora1895/github-readme-stats)
 ---
 
 > ```
