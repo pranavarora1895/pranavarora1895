@@ -4,7 +4,7 @@
 >  
 > <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavarora1895&layout=compact&theme=radical)](https://github.com/pranavarora1895?tab=repositories)</a>
 >
-> [![Pranav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pranavarora1895&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+> [![Pranav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pranavarora1895&theme=radical)](https://wakatime.com/share/@pranavarora1895/697245fe-296e-4655-8579-ceb28b68f68c.png)
 ---
 
 > ```
