@@ -1,6 +1,7 @@
 # _Bienvenue_ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) ![Profile View Counter](https://komarev.com/ghpvc/?username=pranavarora1895)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api/?theme=radical)
+---
 > <a>[![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavarora1895&theme=radical&show_icons=true&line_height=20&count_private=true)](https://github.com/pranavarora1895?tab=repositories)</a>  
 >  
 > <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavarora1895&layout=compact&theme=radical)](https://github.com/pranavarora1895?tab=repositories)</a>
