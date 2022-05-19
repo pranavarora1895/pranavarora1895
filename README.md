@@ -23,7 +23,7 @@ _<h2 align="center">My CodeStats</h2>_
 > 
 > interestedIn </Web Development> </Database Systems> </Machine Learning>
 >
-> iTechStacks </Python> </Django> </Flask> </SQL> </NoSQL> </AWS> </HTML> </CSS> </JS> </Rust>
+> iTechStacks </Python> </Django> </Flask> </JavaScript> </SQL> </NoSQL> </AWS> </HTML> </CSS> </JS> </Rust>
 >
 > iLookForCollaboration </Automation> </Database Systems> </Python Projects>
 > 
