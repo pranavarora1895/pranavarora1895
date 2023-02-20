@@ -21,11 +21,11 @@ _<h2 align="center">My CodeStats</h2>_
 > ```
 > iAM </# pranavarora1895>
 > 
-> interestedIn </Web Development> </Database Systems> </Machine Learning>
+> interestedIn </Problem Solving> </Brainstorming Ideas> </Appreciation> </Constructive Feedback>
 >
-> iTechStacks </Python> </Django> </Flask> </JavaScript> </SQL> </NoSQL> </AWS> </HTML> </CSS> </JS> </Rust>
+> iTechStacks </Python> </Django> </Flask> </JavaScript> </SQL> </NoSQL> </AWS> </HTML> </CSS> </JS> </React> </Angular> </Spring boot>
 >
-> iLookForCollaboration </Automation> </Database Systems> </Python Projects>
+> iLookForCollaboration </Full Stack> </Machine Learning> </Computer Vision>
 > 
 > iLove </To Teach> </To Learn>
 > ```
