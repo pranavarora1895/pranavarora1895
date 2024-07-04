@@ -10,7 +10,7 @@
   _<h2 align="center">About Me</h2>_
 
   </div>
-I'm a software developer with a rich background in full-stack development, machine learning, and cloud computing. With over 5 years of experience in the IT industry, I have honed my skills in various technologies and frameworks. Currently, I am pursuing a Master’s in Computer Science at the Memorial University of Newfoundland, where I am working on a deep-learning project for device detection in VR headsets using YOLO Object Detection and MiDaS depth estimation.
+I'm a software developer with a background in full-stack development, machine learning, and cloud computing. With over 5 years of experience in the IT industry, I have honed my skills in various technologies and frameworks. Currently, I am pursuing a Master’s in Computer Science at the Memorial University of Newfoundland, where I am working on a deep-learning project for device detection in VR headsets using YOLO Object Detection.
 
 ## Skills and Technologies
 
