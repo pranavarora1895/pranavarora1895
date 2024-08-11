@@ -11,7 +11,7 @@
 
   </div>
 
-  I write <code/>
+  I turn ideas into code. 🧑‍💻
 
 ## Skills and Technologies
 
