@@ -13,6 +13,16 @@
 
   I turn ideas into code. 🧑‍💻
 
+  <p><i>Coding Hours Logged:</i>
+            <a
+              href="https://wakatime.com/@e72a1859-4793-4da2-b36b-49c7378256a0"
+              target="_blank"
+              ><img
+                src="https://wakatime.com/badge/user/e72a1859-4793-4da2-b36b-49c7378256a0.svg"
+                alt="Total time coded since Jan 17 2022"
+            /></a>
+          </p>
+
 ## Skills and Technologies
 
 - **Languages:** Python, Java, JavaScript, TypeScript
