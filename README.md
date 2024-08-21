@@ -1,6 +1,10 @@
 <div align="center">
   
-# _Bienvenue_ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) ![Profile View Counter](https://komarev.com/ghpvc/?username=pranavarora1895)
+# _Welcome / स्वागतम् / Bienvenue_   
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=pranavarora1895)
   </div>
 
   I turn ideas into code. 🧑‍💻
