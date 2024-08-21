@@ -41,7 +41,6 @@ _<h2 align="center">My CodeStats</h2>_
   
 > <a>[![Pranav's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pranavarora1895&theme=radical&show_icons=true&line_height=20&count_private=true)](https://github.com/pranavarora1895?tab=repositories)</a>  
 >  
-> <a>[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranavarora1895&layout=compact&theme=radical)](https://github.com/pranavarora1895?tab=repositories)</a>
 >
 ><img src="https://wakatime.com/share/@pranavarora1895/697245fe-296e-4655-8579-ceb28b68f68c.png" alt="WakaTime Stats" height=450 width=600></img>
 ---
