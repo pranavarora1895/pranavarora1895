@@ -24,7 +24,7 @@
 
 ## Projects and Experience
 
-- **Master’s Project:** Developing a deep-learning convolutional neural network model for device detection in VR headsets.
+- **Master’s Project:** Developed a deep-learning convolutional neural network model for device detection in VR headsets.
 - **Canadian Blood Services:** Developed scalable internal applications using Angular and Spring Boot.
 - **MyKarma Consulting Services:** Built a Certification Verification System and developed websites with Django and WordPress.
 - **Cisco Systems:** Contributed to the Cisco Contact Center Operations Suite, enhancing automated troubleshooting capabilities.
