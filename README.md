@@ -7,9 +7,11 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=pranavarora1895)
   </div>
 
-  I turn ideas into code. 🧑‍💻
+ <div align="center"> I turn ideas into code. 🧑‍💻 </div>
 
-  <p><i>Coding Hours Logged:</i>
+ ---
+
+<p><b>Coding Hours Logged:</b>
             <a
               href="https://wakatime.com/@e72a1859-4793-4da2-b36b-49c7378256a0"
               target="_blank"
