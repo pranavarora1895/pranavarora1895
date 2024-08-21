@@ -35,7 +35,7 @@
 - **[MyKarma Consulting Services](https://www.mykarmaconsulting.com/):** Built a Certification Verification System and developed websites with Django and WordPress.
 - **[Cisco Systems](https://www.dropbox.com/scl/fi/gpietlwdlhywscjdm4d3d/CCCOps_Paper.pdf?rlkey=u4sla67hyrwijuzw5ia0kktyb&dl=0):** Contributed to the Cisco Contact Center Operations Suite, enhancing automated troubleshooting capabilities.
 
-## Projects not on GitHub
+## Low-Code Development
 
 - **[Sri Satya Sai School Shimla](https://www.ssshimla.com/):** Designed a School website on Wix. Integrated Velo tool to query Transfer Certificates for the students.
 - **[Inner Wheel Club Shimla](https://innerwheelclubshimla.com/):** Designed a Wordpress website for the women's district club.
