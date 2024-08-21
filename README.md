@@ -39,7 +39,7 @@
 ## Achievements
 
 - **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/91e5a662-8a58-4ffe-8a9f-71a828a0b96a/public_url)**
-- **[Runner-Up in Redis x DevTo Hackathon 2022](https://www.linkedin.com/posts/pranavarora1895_redishackathon-python-react-activity-6983099766297567232-eC3w?utm_source=share):** Developed an Inventory Management Application.
+- **[Runner-Up in Redis x DevTo Hackathon 2022](https://www.linkedin.com/posts/pranavarora1895_redishackathon-python-react-activity-6983099766297567232-eC3w?utm_source=share):** Developed an [Inventory Management Application](https://github.com/pranavarora1895/hardWareHouseInventory).
 - **[Winner of Experience Ventures Ideathon 2022](https://x.com/MUN_CompSci/status/1588137506968686593):** Proposed innovative solutions for rural public transportation.
 
 ---
