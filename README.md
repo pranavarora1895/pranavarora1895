@@ -32,7 +32,7 @@
 
 ## Projects and Experience
 
-- **[Master’s Project](https://youtube.com/shorts/byt0RUu0d7o?feature=share):** Developed a deep-learning convolutional neural network model for device detection in VR headsets.
+- **[Master’s Project](https://www.linkedin.com/posts/pranavarora1895_artificialintelligence-virtualreality-deeplearning-activity-7231615998884298752-Vm5d?utm_source=share&utm_medium=member_desktop):** Developed a deep-learning convolutional neural network model for device detection in VR headsets.
 - **[Canadian Blood Services](https://www.linkedin.com/posts/samrussell_mastering-component-styling-elevate-your-activity-7191795966008549376-N78f?utm_source=share):** Developed scalable internal applications using Angular and Spring Boot. Addressed challenges in modifying component library styles using CSS layering and Angular Class/Style precedence. [View my solution here](https://dev.to/pranavarora1895/mastering-component-styling-elevate-your-css-with-layering-and-dynamic-class-management-no-ngdeep-needed-3m7j).
 - **[MyKarma Consulting Services](https://www.mykarmaconsulting.com/):** Built a Certification Verification System and developed websites with Django and WordPress.
 - **[Cisco Systems](https://www.dropbox.com/scl/fi/gpietlwdlhywscjdm4d3d/CCCOps_Paper.pdf?rlkey=u4sla67hyrwijuzw5ia0kktyb&dl=0):** Contributed to the Cisco Contact Center Operations Suite, enhancing automated troubleshooting capabilities.
