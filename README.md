@@ -63,7 +63,4 @@ _<h2 align="center">Contact Me</h2>_
 > ### ✉ Let's Get Connected: [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:aurorapranav187@gmail.com), [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/pranav-arora-354b71bb), [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/arorapranav187/), [<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/cosmicpranav007/).
 
 
----
-  
- ![Jokes Card](https://readme-jokes.vercel.app/api/?theme=radical)
-  
+---  
