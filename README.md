@@ -48,6 +48,11 @@
 - **[Runner-Up in Redis x DevTo Hackathon 2022](https://www.linkedin.com/posts/pranavarora1895_redishackathon-python-react-activity-6983099766297567232-eC3w?utm_source=share):** Developed an [Inventory Management Application](https://github.com/pranavarora1895/hardWareHouseInventory).
 - **[Winner of Experience Ventures Ideathon 2022](https://x.com/MUN_CompSci/status/1588137506968686593):** Proposed innovative solutions for rural public transportation.
 
+## AI Agents
+
+- **[Doc Bot](https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2024/10/03/20/20241003201830-M82WT2D2.json)**: A NextJS documentation bot. Pages from latest version of NextJS documentation have been fed into its knowledge base in a vector graph format, so it is more updated than ChatGPT.
+- **[Cosmetia](https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2024/10/03/20/20241003202130-YEVIP1TU.json)**: This bot acts like a sales person who knows about cosmetics. A CSV dataset of cosmetics has been fed into its knowledge base.
+
 ---
  
 _<h2 align="center">My CodeStats</h2>_
